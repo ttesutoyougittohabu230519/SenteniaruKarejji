@@ -1,0 +1,45 @@
+senteniaru karejji 1-2 gakki
+
+1)Visual Studio
+
+2)Visual Studio Code
+-Eslint
+
+3)Python
+
+4)Node.js
+-npm no insutoru to sonopasunitsuite
+--4.1)npm -v
+--4.2)npm config get prefix ((pasuwokopisuru
+--4.3)win+r sysdm.cpl
+
+5)Oracle VM VirtualBox
+
+6)Oracle MySQL
+
+3 gakki
+
+1)Pleiades Eclipse
+
+2)git
+-git config --global user.name "anatanoyuzamei"
+-git config --global user.email "anatanomeru"
+-git config --global --list
+
+-rokarudetabesu o sakuseisuru
+--"git init" wo shiyoshimasu
+-sutetasu wo mitsukeru
+--git status
+--git add .
+
+-git commit -m "first commit"
+-git status
+
+-git log
+
+
+--push
+
+--clone
+
+--pull
