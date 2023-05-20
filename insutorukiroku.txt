@@ -32,14 +32,38 @@ senteniaru karejji 1-2 gakki
 --git status
 --git add .
 
--git commit -m "first commit"
+-git commit -m "tesutokomitto001"
 -git status
 
 -git log
 
 
 --push
+git remote add origin https://github.com/ttesutoyougittohabu230519/SenteniaruKarejji.git
+git branch -M main
+git push -u origin main
 
 --clone
 
 --pull
+
+3)MongoDB
+-"kasutamu" wo sentakushimasu
+-mongodb to mongodb compass wo sabisu to shiteinsutorushinaidekudasai
+
+--mongodb wo sukinabashonirinkushimasu
+--mongod --dbpath pasu
+
+--uebuburauza de tesutoshitemiru
+--http://localhost:27017
+
+--sabisu wo shuryosuruhoho
+
+--ctrl+c
+
+4)npm
+npm install lite-server -g
+npm install yarn -g
+npm install nodemon -g
+npm install typescript -g
+npm install express-generator -g
